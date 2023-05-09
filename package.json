@@ -1,0 +1,29 @@
+{
+  "name": "nextjs",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@chakra-ui/icons": "^2.0.19",
+    "@chakra-ui/react": "^2.6.0",
+    "@emotion/react": "^11.10.6",
+    "@emotion/styled": "^11.10.6",
+    "@next/font": "13.1.5",
+    "eslint": "8.32.0",
+    "eslint-config-next": "13.1.5",
+    "framer-motion": "^9.1.7",
+    "next": "13.1.5",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "swiper": "^9.2.4"
+  },
+  "devDependencies": {
+    "@types/react-is": "^17.0.3",
+    "autoprefixer": "^10.4.13"
+  }
+}
