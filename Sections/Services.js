@@ -30,21 +30,21 @@ const Services = () => {
 					</Text>
 					<SimpleGrid minChildWidth="300px" spacing="40px">
 						<Card
-							imageUrl={"/imageFake"}
+							imageUrl={"/imageFake.png"}
 							heading={"Information and Cyber Security Consulting Services"}
 							description={`Our Information and cyber security consultants provide services and solutions that
                              deliver continuous security assurance for business, government, and critical
                              infrastructure.`}
 						></Card>
 						<Card
-							imageUrl={"/imageFake2"}
+							imageUrl={"/imageFake2.png"}
 							heading={`Software Integration Services`}
 							description={`Cost effective method of system integration of existing system for client is recommended and
 delivered by us instead of the costlier method of incorporating new applications in order to
 keep up with software and hardware enhancements.`}
 						></Card>
 						<Card
-							imageUrl={"/imageFake"}
+							imageUrl={"/imageFake.png"}
 							heading={`Troubleshooting, Problem Solving & Enhancements`}
 							description={`We are involved in solving problems for companies who face real problems in implementation
 application or who find that requirements have changed the development cycles usually take a
@@ -52,21 +52,21 @@ long time. We offer to solve problems faced, troubleshoot applications and suppo
 by fine tuning, enhancement and maintenance`}
 						></Card>
 						<Card
-							imageUrl={"/imageFake2"}
+							imageUrl={"/imageFake2.png"}
 							heading={`Corporate Training.`}
 							description={`We offer to train your resources on various technologies adopted with special emphasis on Onthe-Job training. We will help them maintain existing application. MIS strategic training at the
 Managerial level is an additional service we offer so that the management becomes more aware
 of latest technology, its implementation and type of solution.`}
 						></Card>
 						<Card
-							imageUrl={"/imageFake"}
+							imageUrl={"/imageFake.png"}
 							heading={`Project Planning – Consultancy.`}
 							description={`Even before developing a system, we can assist companies to plan a project including cost
 analysis, investment analysis, return analysis as well as project management so that the
 proposal could be presented to the management for approval. `}
 						></Card>
 						<Card
-							imageUrl={"/imageFake2"}
+							imageUrl={"/imageFake2.png"}
 							heading={`Product Selling`}
 							description={`Even before developing a system, we can assist companies to plan a project including cost
 analysis, investment analysis, return analysis as well as project management so that the

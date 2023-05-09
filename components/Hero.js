@@ -20,7 +20,7 @@ const Hero = ({ heading, description, imageUrl }) => {
 					<Container
 						maxW={"2xl"}
 						position={"absolute"}
-						top={"20%"}
+						top={"30%"}
 						color={"gray.100"}
 						ml={{ base: "26", md: "28" }}
 					>
