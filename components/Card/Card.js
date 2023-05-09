@@ -11,16 +11,12 @@ import {
 } from "@chakra-ui/react";
 import React from "react";
 
-const ServiceCard = ({ heading, description }) => {
+const ServiceCard = ({ heading, imageUrl, description }) => {
 	return (
 		<Card boxShadow={"2xl"} maxW={"350px"}>
 			<CardBody>
 				<Box>
-					<Image
-						src="/imageFake2.png"
-						objectFit={"cover"}
-						alt="fake image"
-					></Image>
+					<Image src={imageUrl} objectFit={"cover"} alt="fake image"></Image>
 				</Box>
 				<Stack pt={"8"}>
 					<Heading color={"gray.600"} fontSize={"28px"}>
